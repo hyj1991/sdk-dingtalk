@@ -1,0 +1,20 @@
+{
+  "name": "sdk-dingtalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:alicloud-sdk/sdk-dingtalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dingbot": "^1.1.0",
+    "httpx": "^2.1.4",
+    "jsdom": "^14.0.0"
+  }
+}
